@@ -20,3 +20,10 @@
 </p>
 <p>อ่านเซ็นเซอร์ DHT11 สลับแสดงอุณหภูมิ–ความชื้นบน OLED</p>
 
+<h3>🎛️ <a href="potentiometer-control-led/">Potentiometer Control LED + OLED</a></h3>
+<p>
+  <a href="potentiometer-control-led/"><img src="potentiometer-control-led/few-light.png" width="380" alt="จอ OLED แสดง 0% LED ดับ"></a>
+  <a href="potentiometer-control-led/"><img src="potentiometer-control-led/full-light.png" width="380" alt="จอ OLED แสดง 70% LED สว่าง"></a>
+</p>
+<p>หมุน Potentiometer หรี่ไฟ LED ด้วย PWM พร้อมแสดงเปอร์เซ็นต์บน OLED</p>
+
