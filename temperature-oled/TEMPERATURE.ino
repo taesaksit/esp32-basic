@@ -58,8 +58,7 @@ void loop() {
   // อ่านค่าจาก DHT11
   float temperature = dht.readTemperature();
   float humidity = dht.readHumidity();
-  float temperature = 23;
-  float humidity = 60;
+
   // ตรวจสอบค่าที่อ่านได้
   if (isnan(temperature) || isnan(humidity)) {
 
