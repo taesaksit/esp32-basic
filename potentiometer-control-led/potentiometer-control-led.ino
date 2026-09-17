@@ -42,8 +42,6 @@ void loop() {
 
   // แปลง ADC 0-4095 → PWM 0-255
   int pwmValue = map(adcValue, 0, 4095, 0, 255);
-
-  // แปลง ADC 0-4095 → PWM 0-255
   int percent = map(adcValue, 0, 4095, 0, 100);
 
   // ส่ง PWM ไป LED
