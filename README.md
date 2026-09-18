@@ -27,3 +27,10 @@
 </p>
 <p>หมุน Potentiometer หรี่ไฟ LED ด้วย PWM พร้อมแสดงเปอร์เซ็นต์บน OLED</p>
 
+<h3>🌙💡 <a href="project-photosensitive/">Photosensitive Auto Light + OLED</a></h3>
+<p>
+  <a href="project-photosensitive/"><img src="project-photosensitive/light-off.png" width="380" alt="สว่าง RGB ดับ"></a>
+  <a href="project-photosensitive/"><img src="project-photosensitive/light-on.png" width="380" alt="มืด RGB ติดสีขาว"></a>
+</p>
+<p>อ่าน Photosensitive เปิด RGB อัตโนมัติตอนมืด พร้อมอ่าน DHT11 สลับแสดงอุณหภูมิ–ความชื้นบน OLED</p>
+
